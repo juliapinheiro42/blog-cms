@@ -1,5 +1,4 @@
-# Blog CMS — Ferramenta de Gerenciamento de Conteúdo (em TypeScript)
-
+# Blog CMS — Ferramenta de Gerenciamento de Conteúdo 
 ## 📖 Descrição
 
 Este projeto é uma **ferramenta de gerenciamento de conteúdo (CMS) para blogs**, desenvolvida inteiramente em **TypeScript** com foco em **lógica de domínio e regras de negócio**.  
