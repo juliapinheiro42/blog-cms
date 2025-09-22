@@ -10,7 +10,7 @@ A persistência é feita **em memória**, e toda a interação é demonstrada vi
 ---
 
 ## 📂 Estrutura de Pastas
-
+```bash
 blog-cms/
 ├─ src/
 │ ├─ models/
@@ -33,6 +33,7 @@ blog-cms/
 ├─ tsconfig.json
 ├─ README.md
 └─ .gitignore
+```
 
 ---
 
