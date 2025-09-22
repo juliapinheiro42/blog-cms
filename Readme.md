@@ -57,16 +57,16 @@ npm install
 ```bash
 npm run start
 ```
-
-🛠️ Tecnologias Utilizadas
+---
+##🛠️ Tecnologias Utilizadas
 
 TypeScript (target ES2020)
 
 Node.js
 
 ts-node
-
-📊 Funcionalidades Demonstradas em index.ts
+---
+##📊 Funcionalidades Demonstradas em index.ts
 
 Criação de 3 usuários: Admin, Editor, Leitor.
 
