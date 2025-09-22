@@ -1,4 +1,5 @@
-# Blog CMS — Ferramenta de Gerenciamento de Conteúdo 
+# Blog CMS — Ferramenta de Gerenciamento de Conteúdo (em TypeScript)
+
 ## 📖 Descrição
 
 Este projeto é uma **ferramenta de gerenciamento de conteúdo (CMS) para blogs**, desenvolvida inteiramente em **TypeScript** com foco em **lógica de domínio e regras de negócio**.  
@@ -42,8 +43,19 @@ blog-cms/
 ```bash
 git clone https://github.com/juliapinheiro42/blog-cms.git
 cd 1433-JuliaFarias-Post
+```
+
+### 2. Instalar dependências
+
+```bash
 npm install
+```
+
+### 3. Executar com ts-node
+
+```bash
 npm run start
+```
 
 🛠️ Tecnologias Utilizadas
 
@@ -55,21 +67,20 @@ ts-node
 
 📊 Funcionalidades Demonstradas em index.ts
 
- Criação de 3 usuários: Admin, Editor, Leitor.
+Criação de 3 usuários: Admin, Editor, Leitor.
 
- Criação de 4 publicações (Artigo + VideoPost).
+Criação de 4 publicações (Artigo + VideoPost).
 
- Associação de categorias.
+Associação de categorias.
 
- Inclusão de comentários.
+Inclusão de comentários.
 
- Likes entre usuários.
+Likes entre usuários.
 
- Serialização para JSON.
+Serialização para JSON.
 
- Tentativa de Leitor deletar post → falha.
+Tentativa de Leitor deletar post → falha.
 
- Admin consegue deletar post de outro.
+Admin consegue deletar post de outro.
 
- Getter resumoConteudo limita a 100 caracteres.
-```
+Getter resumoConteudo limita a 100 caracteres.
